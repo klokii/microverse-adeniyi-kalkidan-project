@@ -45,3 +45,25 @@ header p {
     padding: 1rem 0;
     opacity: .8;
 }
+
+.about {
+    padding-top: 3rem;
+}
+
+.about h2 {
+    opacity: .8;
+    margin-bottom: 3rem;
+}
+
+.about ul {
+    width: 30rem;
+    margin: 0 auto;
+    text-align: left;
+}
+
+li {
+    margin-bottom: 1rem;
+    line-height: 1.5;
+    font-weight: 400;
+    opacity: .8;
+}
